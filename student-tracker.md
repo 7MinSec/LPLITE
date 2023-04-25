@@ -2,7 +2,9 @@
 
 ## student2
 User: JM  
-Teachable: yes. 
+Teachable: yes  
+RDP setup: yes  
+Good to go?: Unknown
 
 ## student3
 User: HNovice  
