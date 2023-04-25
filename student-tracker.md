@@ -20,7 +20,9 @@ Good to go?: no
 
 ## student5
 User: JDAHacker  
-Teachable: not confirmed  
+Teachable: yes  
+RDP setup: yes  
+Good to go?: not confirmed
 
 ## student6
 User: Manix  
