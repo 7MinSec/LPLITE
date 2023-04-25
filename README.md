@@ -1,4 +1,4 @@
-# 7MinSec's LPLITE (Live Interactive Training Edition) 
+# 7MinSec's LPLITE (Live Interactive Training Experience) 
 
 ## What is LPLITE?
 To quote the course's [landing page](https://7minsec.com/services/training/#lplite):
