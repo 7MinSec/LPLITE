@@ -4,15 +4,19 @@
 User: JM  
 Teachable: yes  
 RDP setup: yes  
-Good to go?: Unknown
+Good to go?: YES!
 
 ## student3
 User: HNovice  
 Teachable: yes  
+RDP setup: yes  
+Good to go?: Unknown
 
 ## student4
 User: xoke  
-Teachable: no  
+Teachable: yes  
+RDP setup: no  
+Good to go?: no
 
 ## student5
 User: JDAHacker  
@@ -23,5 +27,5 @@ User: Manix
 Teachable: not confirmed  
 
 ## student7
-User: Manix2 (tentative)  
+User: imon  
 Teachable: not confirmed  
