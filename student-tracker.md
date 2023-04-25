@@ -28,4 +28,6 @@ Teachable: not confirmed
 
 ## student7
 User: imon  
-Teachable: not confirmed  
+Teachable: yes  
+RDP setup: no  
+Good to go?: no  
