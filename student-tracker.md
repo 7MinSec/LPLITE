@@ -1,19 +1,25 @@
 # Student tracker
 
 ## student2
-JM
+User: JM
+Teachable: yes
 
 ## student3
-HNovice
+User: HNovice
+Teachable: yes
 
 ## student4
-xoke
+User: xoke
+Teachable: no
 
 ## student5
-JDAHacker
+User: JDAHacker
+Teachable: not confirmed
 
 ## student6
-Manix
+User: Manix
+Teachable: not confirmed
 
 ## student7
-Manix (tentative)
+User: Manix2 (tentative)
+Teachable: not confirmed
