@@ -29,5 +29,5 @@ Teachable: not confirmed
 ## student7
 User: imon  
 Teachable: yes  
-RDP setup: no  
-Good to go?: no  
+RDP setup: yes!  
+Good to go?: YES!  
