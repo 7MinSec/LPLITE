@@ -15,7 +15,7 @@ To quote the course's [landing page](https://7minsec.com/services/training/#lpli
 We are currently working through a round of beta testing for **version 2** of the class, so we wanted to create a space to track and resolve issues that the testers come up against!
 
 ## I'm one of your beta testers - what the heck do you expect from me?
-I would love you to go through the following tasks and [raise issues](https://github.com/7MinSec/LPLITE/issues) report:
+I would love you to go through the following tasks and [raise issues](https://github.com/7MinSec/LPLITE/issues) for:
 
 * Any typos/corrections/clarifications in the Teachable curriculum
 
