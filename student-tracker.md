@@ -17,8 +17,8 @@ Finished testing?: unknown
 ## student4
 User: xoke  
 Teachable: yes  
-RDP setup: no  
-Good to go?: no
+RDP setup: yes  
+Good to go?: unknown
 
 ## student5
 User: JDAHacker  
