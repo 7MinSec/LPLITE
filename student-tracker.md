@@ -29,7 +29,7 @@ Good to go?: not confirmed
 ## student6
 User: Manix  
 Teachable: not confirmed  
-RDP setup:  no  
+RDP setup:  yes  
 Good to go?: not confirmed  
 
 ## student7
