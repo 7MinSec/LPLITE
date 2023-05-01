@@ -1,39 +1,43 @@
 # Student tracker
 
-## student2
-User: JM  
-Teachable: yes  
-RDP setup: yes  
-Good to go?: YES!  
-Finished testing?: YES!
+## Active students
 
-## student3
+### student3
 User: HNovice  
 Teachable: yes  
 RDP setup: yes  
 Good to go?: yes  
 Finished testing?: unknown
 
-## student4
+### student4
 User: xoke  
 Teachable: yes  
 RDP setup: yes  
 Good to go?: unknown
 
-## student5
+### student5
 User: JDAHacker  
 Teachable: yes  
 RDP setup: yes  
 Good to go?: not confirmed
 
-## student6
+### student6
 User: Manix  
 Teachable: not confirmed  
 RDP setup:  yes  
 Good to go?: not confirmed  
 
-## student7
+### student7
 User: imon  
 Teachable: yes  
 RDP setup: yes!  
 Good to go?: YES!  
+
+## Inactive/completed students
+
+## student2
+User: JM  
+Teachable: yes  
+RDP setup: yes  
+Good to go?: YES!  
+Finished testing?: YES!
