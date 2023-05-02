@@ -1,13 +1,6 @@
-# Student tracker
+# Student tracker for beta testing
 
 ## Active students
-
-### student3
-User: HNovice  
-Teachable: yes  
-RDP setup: yes  
-Good to go?: yes  
-Finished testing?: unknown
 
 ### student4
 User: xoke  
@@ -41,3 +34,10 @@ Teachable: yes
 RDP setup: yes  
 Good to go?: YES!  
 Finished testing?: YES!
+
+### student3
+User: HNovice  
+Teachable: yes  
+RDP setup: yes  
+Good to go?: yes  
+Finished testing?: Yes'm  
