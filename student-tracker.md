@@ -6,7 +6,7 @@
 User: xoke  
 Teachable: yes  
 RDP setup: yes  
-Good to go?: unknown
+Good to go?: yes
 
 ### student5
 User: JDAHacker  
@@ -18,7 +18,7 @@ Good to go?: not confirmed
 User: Manix  
 Teachable: not confirmed  
 RDP setup:  yes  
-Good to go?: not confirmed  
+Good to go?: Yes  
 
 ### student7
 User: imon  
