@@ -8,12 +8,6 @@ Teachable: yes
 RDP setup: yes  
 Good to go?: yes
 
-### student5
-User: JDAHacker  
-Teachable: yes  
-RDP setup: yes  
-Good to go?: not confirmed
-
 ### student6
 User: Manix  
 Teachable: not confirmed  
@@ -41,3 +35,9 @@ Teachable: yes
 RDP setup: yes  
 Good to go?: yes  
 Finished testing?: Yes'm  
+
+### student5
+User: JDAHacker  
+Teachable: yes  
+RDP setup: yes  
+Good to go?: not confirmed
