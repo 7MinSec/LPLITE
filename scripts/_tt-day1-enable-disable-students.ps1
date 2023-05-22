@@ -1,4 +1,7 @@
-# A quick script to batch enable or disable students in LPLITE
+# A quick script to batch enable or disable students for
+# Light Pentest LITE (Live Interactive Training Experience)
+#
+# More information at https://7minsec.com/services/training/#lplite
 
 $confirmation = Read-Host "Do you need to DISABLE all students except student1?"
 if ($confirmation -eq 'y') {
