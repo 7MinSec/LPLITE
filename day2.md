@@ -66,7 +66,5 @@ sharphound -c all -d tangent.town
 A sample using [SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse):
 
 ```
-Exploiting Group Policy Objects
-```
 SharpGPOAbuse.exe --addcomputertask --taskname "NAME OF YOUR TASK" --author "NAME OF AUTHOR" --command "YOUR COMMAND" --arguments "YOUR ARGUMENTS" --gponame "NAME OF THE VULNERABLE GPO" 
 ```
