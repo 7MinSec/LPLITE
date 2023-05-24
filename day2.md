@@ -1,5 +1,5 @@
-[]: # Day 2 notes from Light Pentest LITE (Live Interactive Training Experience)
-[]: # More information at https://7minsec.com/services/training/#lplite
+*Day 2 notes from Light Pentest LITE (Live Interactive Training Experience)  
+More information at https://7minsec.com/services/training/#lplite*
 
 # Cracking hashes: part 2
 Cracking hashes - basic syntax
