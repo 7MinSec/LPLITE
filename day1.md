@@ -1,5 +1,5 @@
-[]: # Day 1 notes from Light Pentest LITE (Live Interactive Training Experience)
-[]: # More information at https://7minsec.com/services/training/#lplite
+*Day 1 notes from Light Pentest LITE (Live Interactive Training Experience)  
+More information at https://7minsec.com/services/training/#lplite*
 
 # Where are we on the network?
 ```
