@@ -1,5 +1,5 @@
-[]: # Day 3 notes from Light Pentest LITE (Live Interactive Training Experience)
-[]: # More information at https://7minsec.com/services/training/#lplite
+*Day 3 notes from Light Pentest LITE (Live Interactive Training Experience)  
+More information at https://7minsec.com/services/training/#lplite*
 
 # Dumping and cracking Active Directory hashes
 With mimikatz:
