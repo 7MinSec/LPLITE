@@ -1,5 +1,7 @@
 # 7MinSec's LPLITE (Live Interactive Training Experience) 
 
+---
+
 ## What is LPLITE?
 To quote the course's [landing page](https://7minsec.com/services/training/#lplite):
 
@@ -11,16 +13,5 @@ To quote the course's [landing page](https://7minsec.com/services/training/#lpli
 
 ---
 
-## Ok but what's this GitHub repo for?
-We are currently working through a round of beta testing for **version 2** of the class, so we wanted to create a space to track and resolve issues that the testers come up against!
-
-## I'm one of your beta testers - what the heck do you expect from me?
-I would love you to go through the following tasks and [raise issues](https://github.com/7MinSec/LPLITE/issues) for:
-
-* Any typos/corrections/clarifications in the Teachable curriculum
-
-* Any tools/scripts that are missing in the `C:\users\public\pentest-tools` folder
-
-* Exercises that are not working as advertised
-
-* Any other constructive feedback
+# What's this repo for?
+We are currently working through open [issues](https://github.com/7MinSec/LPLITE/issues) for v2-v3 of the course.  Everything is also heavily under construction as we look to migrate the curriculum from Teachable to CourseStack.
