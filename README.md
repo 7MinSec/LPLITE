@@ -3,7 +3,7 @@
 ---
 
 ## What is LPLITE?
-To quote the course's [landing page](https://7minsec.com/services/training/#lplite):
+To quote the course's [landing page](https://7minsec.com/services/training/#720ef3d3901ebbd19):
 
 ---
 
@@ -14,4 +14,4 @@ To quote the course's [landing page](https://7minsec.com/services/training/#lpli
 ---
 
 # What's this repo for?
-We are currently working through open [issues](https://github.com/7MinSec/LPLITE/issues) for v2-v3 of the course.  Everything is also heavily under construction as we look to migrate the curriculum from Teachable to CourseStack.
+We are currently working through open [issues](https://github.com/7MinSec/LPLITE/issues) for a [GOAD](https://github.com/Orange-Cyberdefense/GOAD)-flavored version of the course.
