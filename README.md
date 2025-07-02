@@ -14,4 +14,4 @@ To quote the course's [landing page](https://7minsec.com/services/training/#720e
 ---
 
 # What's this repo for?
-We are currently working through open [issues](https://github.com/7MinSec/LPLITE/issues) for a [GOAD](https://github.com/Orange-Cyberdefense/GOAD)-flavored version of the course.
+We are currently working through open [issues](https://github.com/7MinSec/LPLITE/issues) as we build a [GOAD](https://github.com/Orange-Cyberdefense/GOAD)-flavored version of the course - with the goal of offering it in Q3, 2025.
